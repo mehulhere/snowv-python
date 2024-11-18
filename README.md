@@ -1,5 +1,3 @@
-First Ever Implementation of SnowV in python on Github. 
-
 # SNOW-V Cipher
 
 An AES-based stream cipher designed for high-speed encryption in virtualized environments, suitable for 5G mobile communication systems. SNOW-V is a revision of the SNOW 3G architecture, optimized to leverage modern CPU features like AES-NI and SIMD instructions for enhanced performance.
